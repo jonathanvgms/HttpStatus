@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Novit.HttpStatus.Controllers.ViewModels;
+using Novit.HttpStatus.Controllers.V1.ViewModels;
 using System.Collections.Generic;
 
 namespace Novit.HttpStatus.Controllers.V1
